@@ -34,7 +34,7 @@
 ---
 
 ### 🐍 Meu "Snake" comendo commits (opcional e divertido)
-<img src="https://github.com/{{IrannHerbert}}/{{IrannHerbert}}/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/IrannHerbert/IrannHerbert/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
 
