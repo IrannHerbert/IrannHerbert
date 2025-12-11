@@ -42,7 +42,7 @@
 
 ### 📫 Como falar comigo
 <div>
-  <a href="https://www.linkedin.com/in/Irann_herbert"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
