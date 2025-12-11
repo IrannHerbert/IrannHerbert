@@ -21,14 +21,14 @@
 ### 🧠 Sobre mim
 - 🔭 Atualmente trabalhando no: **projeto integrador IFB**
 - 🌱 Estudando: **Gestão da tecnologia da informação e Desenvolvimento de software backend com Python e Django**
-- 💬 Pergunte-me sobre: **Python, APIs REST, backend**
+- 💬 Pergunte-me sobre: **Python, APIs REST, backend e futebol e claro ! 😅**
 - 🎯 Objetivo: **Criar soluções limpas, escaláveis e elegantes**
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrannHerbert&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irannherbert&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrannHerbert&layout=compact&theme=tokyonight"/>
 </div>
 
