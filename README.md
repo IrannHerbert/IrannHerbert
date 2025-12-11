@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou {{Irann Herbert}} 👋</h1>
+<h1 align="center">Olá, eu sou Irann Herbert 👋</h1>
 
 <p align="center">
   <b>Desenvolvedor Python | Automação | APIs | Backend</b>
