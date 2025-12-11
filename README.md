@@ -27,13 +27,13 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username={{seu_usuario}}&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{seu_usuario}}&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrannHerbert &show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irann -Herbert&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
-### 🐍 Meu "Snake" comendo commits (opcional e divertido)
+### 🐍 Meu "Snake" comendo commits
 <img src="https://github.com/IrannHerbert/IrannHerbert/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
