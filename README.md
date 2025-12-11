@@ -19,7 +19,7 @@
 ---
 
 ### 🧠 Sobre mim
-- 🔭 Atualmente trabalhando em: **Inovapi**
+- 🔭 Atualmente trabalhando no: **projeto integrador IFB**
 - 🌱 Estudando: **Gestão da tecnologia da informação e Desenvolvimento de software backend com Python e Django**
 - 💬 Pergunte-me sobre: **Python, APIs REST, backend**
 - 🎯 Objetivo: **Criar soluções limpas, escaláveis e elegantes**
@@ -34,14 +34,9 @@
 
 ---
 
-### 🐍 Meu "Snake" comendo commits
-<img src="https://github.com/IrannHerbert/IrannHerbert/blob/output/github-contribution-grid-snake.svg"/>
-
----
-
 ### 🚀 Projetos em Destaque
 
-- 🧰 **Projeto 2** — descrição
+- 🧰 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
   
 ---
 
