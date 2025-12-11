@@ -40,10 +40,9 @@
 ---
 
 ### 🚀 Projetos em Destaque
-- 🔧 **Projeto 1** — descrição
-- 🧰 **Projeto 2** — descrição
-- ⚙️ **Projeto 3** — descrição
 
+- 🧰 **Projeto 2** — descrição
+  
 ---
 
 ### 📫 Como falar comigo
