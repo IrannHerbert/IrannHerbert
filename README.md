@@ -62,7 +62,7 @@
 ---
 ### 📫 Como falar comigo
 <div>
-  <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </div>
 
 ---
