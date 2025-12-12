@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Herbert 👋</h1>
+<h1 align="center">Olá, eu sou Irann Herbert 👋</h1>
 
 <p align="center">
   <b>Desenvolvedor Python | APIs | Backend | Banco de dados</b>
@@ -30,10 +30,10 @@
 ---
 
 ### 🧠 Sobre mim
-- 🔭 Atualmente trabalhando no: **projeto integrador IFB**
+- 🔭 Atualmente, trabalhando no: **Projeto Integrador do IFB Brasília, Campus Estrutural**.
 - 🌱 Estudando: **Gestão da tecnologia da informação e Desenvolvimento de software backend com Python e Django**
-- 💬 Pergunte-me sobre: **Python, backend e futebol e claro !**
-- 🎯 Objetivo: **Criar soluções limpas, escaláveis e elegantes**
+- 💬 Pergunte-me sobre: **Python, backend, django e futebol, é claro!**
+- 🎯 Objetivo: **Criar soluções limpas, elegantes e escaláveis — e às vezes diferentes.**
 
 ---
 
