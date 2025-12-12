@@ -30,10 +30,10 @@
 ---
 
 ### 🧠 Sobre mim
-- 🔭 Atualmente, trabalhando no: **Projeto Integrador do IFB Brasília, Campus Estrutural**.
+- 🔭 Atualmente trabalhando no: **projeto integrador IFB**
 - 🌱 Estudando: **Gestão da tecnologia da informação e Desenvolvimento de software backend com Python e Django**
-- 💬 Pergunte-me sobre: **Python, backend, django e futebol, é claro!**
-- 🎯 Objetivo: **Criar soluções limpas, elegantes e escaláveis — e às vezes diferentes.**
+- 💬 Pergunte-me sobre: **Python, backend e futebol e claro !**
+- 🎯 Objetivo: **Criar soluções limpas, escaláveis e elegantes**
 
 ---
 
@@ -44,10 +44,17 @@
 
 ---
 
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=IrannHerbert&show_icons=true&theme=tokyonight"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrannHerbert&layout=compact&theme=tokyonight"/>
+</div>
+
+---
 
 ### 🚀 Projetos em Destaque
 
-- 📚 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
+- 🧰 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
   
 ---
 
@@ -59,4 +66,3 @@
 </div>
 
 ---
-
