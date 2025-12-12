@@ -47,7 +47,7 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🧰 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
+- 📚 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
   
 ---
 
