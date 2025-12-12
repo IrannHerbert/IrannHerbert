@@ -58,12 +58,6 @@
   
 ---
 
----
-
-![snake gif](https://github.com/Irann_Herbert/Irann_Herbert/blob/output/github-contribution-grid-snake.svg)
-
-
----
 
 ---
 ### 📫 Como falar comigo
