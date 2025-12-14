@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Irann Herbert 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Python | APIs | Backend | Banco de dados</b>
+  <b>Desenvolvedor Python | Django | Backend | Banco de dados</b>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🧰 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
+- 📚 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
   
 ---
 
