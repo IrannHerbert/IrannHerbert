@@ -51,6 +51,13 @@
 
 ---
 
+
+### 🚀 Projetos em Destaque
+
+- 🧰 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
+  
+---
+
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -60,11 +67,4 @@
 </div>
 
 ---
-
-### 🚀 Projetos em Destaque
-
-- 🧰 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
-  
----
-
 
