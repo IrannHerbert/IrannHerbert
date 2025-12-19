@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Tecnologias que uso no dia a dia
+###  Tecnologias que uso no dia a dia
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -29,7 +29,7 @@
 
 ---
 
-### 🧠 Sobre mim
+###  Sobre mim
 - 🔭 Atualmente trabalhando no: **projeto integrador IFB**
 - 🌱 Estudando: **Gestão da tecnologia da informação e Desenvolvimento de software backend com Python e Django**
 - 💬 Pergunte-me sobre: **Python, backend e futebol e claro !**
@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Como falar comigo
+###  Como falar comigo
 <div>
   <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </div>
@@ -52,7 +52,7 @@
 ---
 
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
 - 📚 **Biblioteca** — Aplicação em python que simula um sistema de uma biblioteca, neste projeto foi usado python e django.
   
@@ -60,7 +60,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrannHerbert&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrannHerbert&layout=compact&theme=tokyonight"/>
