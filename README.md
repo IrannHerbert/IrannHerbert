@@ -42,11 +42,11 @@
 
 ###  Como falar comigo
 <div>
-  <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90">
 </div>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90">
 <br><br>
 
 ---
