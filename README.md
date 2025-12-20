@@ -42,7 +42,7 @@
 
 ###  Como falar comigo
 <div>
-  <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90">
+  <a href="https://www.linkedin.com/in/irann-herbert-7b7a57323"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </div>
 
 ---
@@ -62,8 +62,8 @@
 
 ###  Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrannHerbert&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrannHerbert&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IrannHerbert&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrannHerbert&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
